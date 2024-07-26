@@ -1,0 +1,37 @@
+.signal-icon {
+    display: flex;
+    flex-direction: row;
+    align-items:baseline;
+}
+
+.signal-bar {
+    width: 1rem;
+    /* height: 20px; */
+    background-color: #e2d8d8; 
+    margin: 2px;
+    border-radius: 3px;
+}
+
+.signal-percent{
+    background-color:rgb(15, 14, 14)
+}
+
+.bar-1 {
+    height: 1rem; 
+}
+
+.bar-2 {
+    height: 2rem; 
+}
+
+.bar-3 {
+    height: 3rem;
+}
+
+.bar-4 {
+    height: 4rem;
+}
+
+.bar-5 {
+    height: 5rem;
+}
